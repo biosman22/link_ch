@@ -23,8 +23,8 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = '=hy5g7q#-77*z07p7ok2fn&q%jr)^92sy$=c_n8jhfe^y@ajp5'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-#DEBUG = True
-DEBUG = False
+DEBUG = True
+#DEBUG = False
 ALLOWED_HOSTS = [u"192.168.1.22", u"salvoengine.herokuapp.com",u"biosman22.pythonanywhere.com"]
 
 
